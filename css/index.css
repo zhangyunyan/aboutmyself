@@ -201,8 +201,8 @@ aside b {
 	height: 100%;
 	position: relative;
 	overflow: hidden;
-	background: url(../image/bg.jpg) no-repeat center top;
-	background-size: 100% 100%;
+	/*background: url(../image/bg.jpg) no-repeat center top;*/
+	/*background-size: 100% 100%;*/
 }
 #home_content,
 #about_content,
@@ -679,10 +679,14 @@ img#home_photo2 {
 }
 .exp_list_left {
 	width:533px;
+
+
 }
 .exp_list dl {
 	margin-left: 140px;
 	margin-top: 36px;
+	display: flex;
+	flex-direction: column;
 }
 .exp_list_first{
 
