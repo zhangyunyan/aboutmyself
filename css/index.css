@@ -721,7 +721,7 @@ img#home_photo2 {
 	text-indent: -9999px;
 	margin: 10px auto;
 	width: 800px;
-	background: url(../image/timeline.png) no-repeat center center;
+	/*background: url(../image/timeline.png) no-repeat center center;*/
 }
 #exp_timeline div {
 	width: 390px;
